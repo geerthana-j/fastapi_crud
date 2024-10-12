@@ -7,8 +7,8 @@ This project is a FastAPI application that allows you to perform CRUD (Create, R
 
 To get started, make sure you have the following:
 
-- Python 3.7 or higher
-- A MongoDB Atlas account or a local MongoDB instance
+- Python 3.9 or higher
+- A MongoDB Atlas account
 - Required Python packages
 
 ## Setup Instructions
