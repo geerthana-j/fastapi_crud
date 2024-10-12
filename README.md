@@ -27,7 +27,7 @@ cd <repository-directory>
 You’ll need to install the necessary Python packages. Use the following command:
 
 ```bash
-pip install fastapi[all] pymongo motor
+pip install -r requirements.txt
 ```
 
 ### 3. Configure MongoDB
