@@ -1,6 +1,6 @@
 anyio==4.6.0
 certifi==2024.8.30
-dnspython==1.16.0
+dnspython==2.0.0
 email_validator==2.2.0
 fastapi==0.115.0
 httpx==0.27.2
